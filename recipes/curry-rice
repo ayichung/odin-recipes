@@ -2,11 +2,10 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Recipes</title>
+        <title>Curry Rice</title>
     </head>
     
     <body>
-        <h1>Recipes</h1>
-        <a href="recipes/curry-rice.html">Curry Rice</a>
+        <h1>Curry Rice</h1>
     </body>
 </html>
